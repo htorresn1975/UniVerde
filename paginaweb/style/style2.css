@@ -6,6 +6,9 @@
 }
 body
 {
+     background-image: url(../img/udem.jpeg);
+    background-repeat: no-repeat;
+    display: block;
     background-color: blanchedalmond;
     background-repeat: no-repeat;
     background-size: cover;
@@ -103,4 +106,5 @@ p
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
 }
+
 }
