@@ -99,6 +99,8 @@ background-color: beige;
     flex-direction: column;
     align-items: center;
     padding: 40px;
+    border-radius: 5px;
+    border-color: azure;
 
 }
 @media (max-width: 500px)
@@ -208,5 +210,6 @@ background-color: beige;
 }   
 
 }
+
 
 
