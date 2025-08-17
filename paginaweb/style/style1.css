@@ -48,6 +48,7 @@ section
     text-align: center;
     align-items: center;
     justify-content: center;
+    heigt:20px;
 }
 aside
 {
@@ -216,3 +217,4 @@ footer .social a:hover
 }
 
 }
+
