@@ -92,7 +92,7 @@ border-color: rgb(25, 134, 174);
 background-color: beige;
 }
 
-.sec-1 
+.sec-1.sec-2 
 {
     text-align: center;
     display: flex;
@@ -208,4 +208,5 @@ background-color: beige;
 }   
 
 }
+
 
