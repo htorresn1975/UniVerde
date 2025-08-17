@@ -94,7 +94,8 @@ background-color: beige;
 
 .sec-1.sec-2 
 {
-    margin:3px
+    with:80%;
+    margin:3px;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -212,6 +213,7 @@ background-color: beige;
 }   
 
 }
+
 
 
 
