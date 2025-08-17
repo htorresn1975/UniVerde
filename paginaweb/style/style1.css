@@ -48,7 +48,7 @@ section
     text-align: center;
     align-items: center;
     justify-content: center;
-    heigt:20px;
+    heigt:30px;
 }
 aside
 {
@@ -56,6 +56,7 @@ aside
     color: azure;
     align-content: center;
     margin: auto;
+    heigt:30px;
     
 }
 
@@ -217,4 +218,5 @@ footer .social a:hover
 }
 
 }
+
 
