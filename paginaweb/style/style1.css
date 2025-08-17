@@ -6,7 +6,10 @@
 }
 body
 {
-    background-color: rgba(7, 7, 7, 0.726);
+    background-image: url(../img/udem.jpeg);
+    background-repeat: no-repeat;
+    display: block;
+     background-color: rgba(7, 7, 7, 0.726);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
@@ -211,4 +214,5 @@ footer .social a:hover
 {
     transform: translateY(-6px);
 }
+
 }
